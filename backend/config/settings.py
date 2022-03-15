@@ -46,8 +46,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'apps.posts',
-    'apps.users', 
-    'apps.carts', 
+    'apps.users',
+    'apps.carts',
     'apps.orders',
     'apps.items',
     'cloudinary',
@@ -94,11 +94,11 @@ WSGI_APPLICATION = 'config.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'd620opilik16q4',
-        'USER': 'gxfkylcfkujgcc',
+        'NAME': 'd21hjhvkrqvf8h',
+        'USER': 'ovxmneuzmqnctd',
         'PORT': 5432,
-        'HOST': 'ec2-18-208-102-44.compute-1.amazonaws.com',
-        'PASSWORD': '3717b85156b36422fd5e6ee17b246e3d91aee636cfac04f0d8fe2feeef20b240',
+        'HOST': 'ec2-44-194-167-63.compute-1.amazonaws.com',
+        'PASSWORD': 'a7447d226a1ae588b6803d69a80ac20229a7aacd6f3ff16a66a506827795698e',
     }
 }
 
