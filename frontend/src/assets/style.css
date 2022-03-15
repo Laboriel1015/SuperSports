@@ -295,7 +295,7 @@ ul.items li .info .info-bottom .number .minus {
 
     ul.items li .info .info-bottom {
         position: relative;
-        left: 17%;
+        left: 7%;
         justify-content: space-around;
     }
 
@@ -448,7 +448,7 @@ footer button {
         padding: 0 4%;
     }
     ul.items li .info .name {
-        margin: -5% 0% 26% 27%;
+        margin: -6% 0px 27% 12%;
     }
 }
 @media screen and (max-width: 280px) {
@@ -513,7 +513,7 @@ footer button {
     /* left: 5%; */
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
     .box p {
         font-family: Roboto;
         color: #ffffff;
@@ -656,7 +656,7 @@ td {
         height: 17vh;
     }
     ul.items li .info {
-        margin-top: -36%;
+        margin-top: -28%;
     }
     ul.items li .name {
         margin: -5% 0% 30% 27%;
