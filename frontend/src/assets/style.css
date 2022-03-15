@@ -483,14 +483,15 @@ footer button {
     height: 50px;
     margin: 10px;
     border-style: none;
+    border-radius: 5px;
 }
 .bottom {
     text-align: center;
-    color: whitesmoke;
+    color: white;
     text-decoration: none;
 }
 .popup-inner a u {
-    color: whitesmoke;
+    color: white;
     text-decoration: none;
 }
 
@@ -522,6 +523,15 @@ footer button {
         position: absolute;
         top: 40px;
         /* left: 5%; */
+    }
+    .bottom {
+        text-align: center;
+        color: black;
+        text-decoration: none;
+    }
+    .popup-inner a u {
+        color: black;
+        text-decoration: none;
     }
 }
 
@@ -623,6 +633,7 @@ td {
     font-size: 1.2em;
     border: none;
     background-color: white;
+    border-radius: 5px;
 }
 
 .details .submit {
@@ -640,13 +651,15 @@ td {
         width: 80%;
     }
     ul.items li img {
-        width: 40%;
+        width: 30%;
+        border-radius: 5%;
+        height: 17vh;
     }
     ul.items li .info {
-        margin-top: -29%;
+        margin-top: -36%;
     }
     ul.items li .name {
-        margin: -5% 0% 26% 27%;
+        margin: -5% 0% 30% 27%;
     }
 }
 .message p {
