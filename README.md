@@ -8,9 +8,9 @@ App, built using frontend React+Redux and backend using Django
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO]() here!!
+Check out [FRONTEND LIVE DEMO](https://super-sports-frontendapp.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO]() here!!
+Check out [API LIVE DEMO](https://super-sports-backendapp.herokuapp.com/) here!!
 
 ## Tech used
 
