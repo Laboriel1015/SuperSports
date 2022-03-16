@@ -216,13 +216,13 @@ ul.items li .info .info-bottom {
     position: absolute;
     left: 7%;
     bottom: 10px;
-    width: 90%;
+    width: 80%;
     display: flex;
     justify-content: space-between;
 }
 @media screen and (max-width: 900px) {
     ul.items li .info .info-bottom {
-        left: 13%;
+        left: 10%;
     }
 }
 ul.items li .info .info-bottom .price {
@@ -295,8 +295,9 @@ ul.items li .info .info-bottom .number .minus {
 
     ul.items li .info .info-bottom {
         position: relative;
-        left: 7%;
+        left: 3%;
         justify-content: space-around;
+        width: 95%;
     }
 
     ul.items li .info .info-bottom .price {
@@ -644,6 +645,7 @@ td {
     font-size: 25px;
     font-family: Roboto;
     cursor: pointer;
+    border-radius: 5px;
 }
 
 @media screen and (max-width: 600px) {
